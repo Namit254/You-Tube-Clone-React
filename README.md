@@ -1,4 +1,4 @@
-#YouTube Clone React.js
+# YouTube Clone React.js
 The YouTube Clone React.js project is a web application that replicates the core features and functionalities of YouTube, the popular video-sharing platform. Built using React.js, this project provides users with a familiar and engaging video-sharing experience.
 
 Key Features:
